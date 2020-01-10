@@ -1,14 +1,14 @@
 BEGIN:VCARD
 VERSION:3.0
 PRODID:-//Apple Inc.//iPhone OS 11.2.2//EN
-N:Lim;Preston;;;
-FN: Preston  Lim 
-ORG:GovTech;
-TITLE:Associate Software Engineer\nProducts Team, Data Science Division
-EMAIL;type=INTERNET;type=WORK;type=pref:preston@data.gov.sg
-TEL;type=WORK;type=VOICE:+65 9123 4567
-item1.ADR;type=WORK;type=pref:;;1 Fusionopolis View\nSandcrawler\, 09-01;;;138577;Singapore
+N:Lee;Ignatius;;;
+FN: Ignatius Lee 
+ORG:Singapore Productivity Centre;
+TITLE:Lead Consultant
+EMAIL;type=INTERNET;type=WORK;type=pref:Ignatius_lee@sgpc.sg
+TEL;type=WORK:+65 6906 8266;type=VOICE:+65 9636 0603
+item1.ADR;type=WORK;type=pref:;;11 Eunos Road 8\n Lifelong Learning Institute\, 09-01;;;;Singapore
 item1.X-ABADR:sg
-item2.URL;type=pref:tech.gov.sg
+item2.URL;type=pref:sgpc.sg
 item2.X-ABLabel:_$!<HomePage>!$_
 END:VCARD
